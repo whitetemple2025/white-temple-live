@@ -1,0 +1,1 @@
+export default function ConfessPage() { return <div>Confess Input Page</div>; }

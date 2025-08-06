@@ -1,0 +1,1 @@
+export default function ProjectorPage() { return <div>Projection Display Page</div>; }
