@@ -1,2 +1,3 @@
-# white-temple-live
-White Temple digital confession system
+# White Temple Live
+
+This is the front-end project for the White Temple performance.
